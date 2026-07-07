@@ -19,6 +19,7 @@ DWG2DWF-X is a Control(COM) for converting DWG to DWF. It supports AutoCAD versi
 - Conversion Process Independent of AutoCAD
 
 ### Free Trial Download Link
+https://github.com/autodwg/DWG2DWFX/releases/download/v1.1.2/DWG2DWFX-v1.1.2.zip
 
 
 ## User Guide
