@@ -1,12 +1,3 @@
-# DWG2DWFX
-**AutoDWG DWG to DWF Component**
-
-## License Notice
-1. Free trial / non-commercial use: GNU LGPLv3
-2. Commercial production use, closed-source integration requires purchasing our commercial license.
-
-Contact info@autodwg.com for commercial authorization.
-
 ## AutoDWG DWG to DWF Control Component
 DWG2DWF-X is a Control(COM) for converting DWG to DWF. It supports AutoCAD version R9 to latest version AutoCAD 2027.
 
